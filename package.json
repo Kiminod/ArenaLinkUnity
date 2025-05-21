@@ -1,0 +1,14 @@
+{
+  "name": "com.kiminod.arenalink",
+  "version": "1.0.0",
+  "displayName": "Dedicated Server Tools",
+  "description": "Unity tools for building headless game server and connecting it via named pipes to an API.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Kiminod",
+    "url": "https://github.com/Kiminod"
+  },
+  "dependencies": {
+    "com.rlabrecque.steamworks.net": "2024.8.0"
+  }
+}
